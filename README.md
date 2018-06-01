@@ -1,1 +1,1 @@
-# se-spec
+# Secure Element - Specifications 
